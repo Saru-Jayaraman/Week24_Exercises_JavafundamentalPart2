@@ -1,5 +1,5 @@
 ### Java Date & Time Exercises
-Refer [JavaTime exercises.txt](files%2FJavaTime%20exercises.txt)
+Implemented from the referred document: [JavaTime exercises.txt](files%2FJavaTime%20exercises.txt)
 
 ### String Exercises
-Refer [String exercises.txt](files%2FString%20exercises.txt)
+Implemented from the referred document: [String exercises.txt](files%2FString%20exercises.txt)
